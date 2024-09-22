@@ -1,12 +1,10 @@
 {
   "domain": "phonetrack",
   "name": "PhoneTrack",
-  "documentation": "https://github.com/j1nx/homeassistant-phonetrack",
+  "documentation": "https://github.com/t3hw00t/homeassistant-phonetrack",
+  "issue_tracker": "https://github.com/t3hw00t/homeassistant-phonetrack",
   "requirements": [],
   "version": "1.0.0",
   "dependencies": [],
-  "codeowners": [
-    "@Phyks",
-    "@j1nx"
-  ]
+  "codeowners": ["@Phyks","@j1nx"]
 }
